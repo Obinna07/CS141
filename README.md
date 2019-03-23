@@ -12,6 +12,6 @@ Lab 2
   - shift right arithmetic (retains sign of number when dividing by 2^n)
   - set less than
   
-  Lab 3
-  - Design and Implement Traffic Light Controller for junction
-  - Finite State Machine includes pedestrian states
+ Lab 3
+ - Design and Implement Traffic Light Controller for junction
+ - Finite State Machine includes pedestrian states
