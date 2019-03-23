@@ -1,0 +1,12 @@
+# ignore all files
+*
+
+# whitelist directories
+!*/
+
+# whitelist git files
+!.gitignore
+!README.md
+
+# whitelist .v files
+!*.v
