@@ -1,4 +1,4 @@
-# cs141
+# CS141
 
 Lab 1
 - Simple logical switches
