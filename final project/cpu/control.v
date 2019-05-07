@@ -142,8 +142,9 @@ module control
             {2'b1?, `F_AND}: ALUControl = `ALU_AND;
             {2'b1?, `F_OR}: ALUControl = `ALU_OR;
             {2'b1?, `F_SLT}: ALUControl = `ALU_SLT;
-			{2'b1?, `F_XOR}: ALUControl = `ALU_XOR;
+			      {2'b1?, `F_XOR}: ALUControl = `ALU_XOR;
             {2'b1?, `F_NOR}: ALUControl = `ALU_NOR;
+            {2'b1?, `F_MUL}: ALUControl = `ALU_MUL;
         endcase
     end
 endmodule

@@ -27,6 +27,7 @@ module alu
             `ALU_SRL: z = x >> y;
             `ALU_SLL: z = x << y;
             `ALU_SRA: z = x >>> y;
+            `ALU_MUL: z = x * y;
         endcase
     end
 
