@@ -8,5 +8,10 @@
 !.gitignore
 !README.md
 
-# whitelist .v files
+# whitelist relevant files
 !*.v
+!*.py
+!*.c
+!*.h
+!*.asm
+!*.machine
