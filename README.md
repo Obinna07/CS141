@@ -26,4 +26,4 @@
 - Matrix Multiplication
 
 
-- need to add partial schematic pictures + example waveforms
+_need to add partial schematic pictures + example waveforms_
